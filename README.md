@@ -22,3 +22,21 @@ yarn
 ```zsh 
 yarn start
 ```
+
+### Screenshots
+
+#### Login
+
+![image](https://user-images.githubusercontent.com/75493439/163292103-496421d5-6264-4582-8311-af8e8c9b0270.png)
+
+#### Reset Password
+![image](https://user-images.githubusercontent.com/75493439/163292266-d66ee7a5-d52d-4d5b-a944-3eb877ec7ed6.png)
+
+#### Sign up
+![image](https://user-images.githubusercontent.com/75493439/163292345-5a32b3f7-6112-4b9f-91ed-c83ce92aaf16.png)
+
+#### Profile
+![image](https://user-images.githubusercontent.com/75493439/163292443-b5d7ccb3-ec95-4344-b6dd-d32e955f3329.png)
+
+#### Update Profile
+![image](https://user-images.githubusercontent.com/75493439/163292474-c92c4c1c-f6bc-4145-aa25-bf57ccc20cec.png)

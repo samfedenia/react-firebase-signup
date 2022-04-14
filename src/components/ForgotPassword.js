@@ -42,7 +42,7 @@ function ForgotPassword() {
               ></Form.Control>
             </Form.Group>
 
-            <Button disabled={loading} type='submit' className='w-100'>
+            <Button disabled={loading} type='submit' className='w-100 mt-3'>
               Reset Password
             </Button>
           </Form>
